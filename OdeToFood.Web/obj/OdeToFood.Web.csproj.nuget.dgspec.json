@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Documents\\Visual Studio 2019\\NetCore\\OdeToFood\\OdeToFood.Web\\OdeToFood.Web.csproj": {}
+    "C:\\Users\\Edgewater\\Documents\\Visual Studio 2019\\NetCore.OdeToFood\\OdeToFood.Web\\OdeToFood.Web.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Documents\\Visual Studio 2019\\NetCore\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
+    "C:\\Users\\Edgewater\\Documents\\Visual Studio 2019\\NetCore.OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Documents\\Visual Studio 2019\\NetCore\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Edgewater\\Documents\\Visual Studio 2019\\NetCore.OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
         "projectName": "OdeToFood.Core",
-        "projectPath": "\\\\Mac\\Home\\Documents\\Visual Studio 2019\\NetCore\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
-        "packagesPath": "C:\\Users\\luis\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Documents\\Visual Studio 2019\\NetCore\\OdeToFood\\OdeToFood.Core\\obj\\",
+        "projectPath": "C:\\Users\\Edgewater\\Documents\\Visual Studio 2019\\NetCore.OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+        "packagesPath": "C:\\Users\\Edgewater\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Edgewater\\Documents\\Visual Studio 2019\\NetCore.OdeToFood\\OdeToFood.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Edgewater\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,6 +43,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
             }
           },
           "imports": [
@@ -55,21 +59,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "\\\\Mac\\Home\\Documents\\Visual Studio 2019\\NetCore\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
+    "C:\\Users\\Edgewater\\Documents\\Visual Studio 2019\\NetCore.OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Documents\\Visual Studio 2019\\NetCore\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Edgewater\\Documents\\Visual Studio 2019\\NetCore.OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
         "projectName": "OdeToFood.Data",
-        "projectPath": "\\\\Mac\\Home\\Documents\\Visual Studio 2019\\NetCore\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
-        "packagesPath": "C:\\Users\\luis\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Documents\\Visual Studio 2019\\NetCore\\OdeToFood\\OdeToFood.Data\\obj\\",
+        "projectPath": "C:\\Users\\Edgewater\\Documents\\Visual Studio 2019\\NetCore.OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+        "packagesPath": "C:\\Users\\Edgewater\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Edgewater\\Documents\\Visual Studio 2019\\NetCore.OdeToFood\\OdeToFood.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Edgewater\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +86,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "\\\\Mac\\Home\\Documents\\Visual Studio 2019\\NetCore\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
-                "projectPath": "\\\\Mac\\Home\\Documents\\Visual Studio 2019\\NetCore\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj"
+              "C:\\Users\\Edgewater\\Documents\\Visual Studio 2019\\NetCore.OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
+                "projectPath": "C:\\Users\\Edgewater\\Documents\\Visual Studio 2019\\NetCore.OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj"
               }
             }
           }
@@ -97,6 +101,18 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -114,21 +130,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "\\\\Mac\\Home\\Documents\\Visual Studio 2019\\NetCore\\OdeToFood\\OdeToFood.Web\\OdeToFood.Web.csproj": {
+    "C:\\Users\\Edgewater\\Documents\\Visual Studio 2019\\NetCore.OdeToFood\\OdeToFood.Web\\OdeToFood.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Documents\\Visual Studio 2019\\NetCore\\OdeToFood\\OdeToFood.Web\\OdeToFood.Web.csproj",
+        "projectUniqueName": "C:\\Users\\Edgewater\\Documents\\Visual Studio 2019\\NetCore.OdeToFood\\OdeToFood.Web\\OdeToFood.Web.csproj",
         "projectName": "OdeToFood.Web",
-        "projectPath": "\\\\Mac\\Home\\Documents\\Visual Studio 2019\\NetCore\\OdeToFood\\OdeToFood.Web\\OdeToFood.Web.csproj",
-        "packagesPath": "C:\\Users\\luis\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Documents\\Visual Studio 2019\\NetCore\\OdeToFood\\OdeToFood.Web\\obj\\",
+        "projectPath": "C:\\Users\\Edgewater\\Documents\\Visual Studio 2019\\NetCore.OdeToFood\\OdeToFood.Web\\OdeToFood.Web.csproj",
+        "packagesPath": "C:\\Users\\Edgewater\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Edgewater\\Documents\\Visual Studio 2019\\NetCore.OdeToFood\\OdeToFood.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Edgewater\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -141,8 +157,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "\\\\Mac\\Home\\Documents\\Visual Studio 2019\\NetCore\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
-                "projectPath": "\\\\Mac\\Home\\Documents\\Visual Studio 2019\\NetCore\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj"
+              "C:\\Users\\Edgewater\\Documents\\Visual Studio 2019\\NetCore.OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
+                "projectPath": "C:\\Users\\Edgewater\\Documents\\Visual Studio 2019\\NetCore.OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj"
               }
             }
           }
@@ -188,7 +204,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

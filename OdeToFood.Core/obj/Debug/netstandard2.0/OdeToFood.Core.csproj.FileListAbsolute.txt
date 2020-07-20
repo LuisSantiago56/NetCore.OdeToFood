@@ -7,3 +7,12 @@
 \\Mac\Home\Documents\Visual Studio 2019\NetCore\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.csproj.CoreCompileInputs.cache
 \\Mac\Home\Documents\Visual Studio 2019\NetCore\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.dll
 \\Mac\Home\Documents\Visual Studio 2019\NetCore\OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.pdb
+C:\Users\Edgewater\Documents\Visual Studio 2019\NetCore.OdeToFood\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.deps.json
+C:\Users\Edgewater\Documents\Visual Studio 2019\NetCore.OdeToFood\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.dll
+C:\Users\Edgewater\Documents\Visual Studio 2019\NetCore.OdeToFood\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.pdb
+C:\Users\Edgewater\Documents\Visual Studio 2019\NetCore.OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.csprojAssemblyReference.cache
+C:\Users\Edgewater\Documents\Visual Studio 2019\NetCore.OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Users\Edgewater\Documents\Visual Studio 2019\NetCore.OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.AssemblyInfo.cs
+C:\Users\Edgewater\Documents\Visual Studio 2019\NetCore.OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.dll
+C:\Users\Edgewater\Documents\Visual Studio 2019\NetCore.OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.pdb
+C:\Users\Edgewater\Documents\Visual Studio 2019\NetCore.OdeToFood\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.csproj.CoreCompileInputs.cache
