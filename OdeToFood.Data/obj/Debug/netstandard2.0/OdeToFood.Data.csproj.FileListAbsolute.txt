@@ -1,0 +1,12 @@
+\\Mac\Home\Documents\Visual Studio 2019\NetCore\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2019\NetCore\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Visual Studio 2019\NetCore\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfo.cs
+\\Mac\Home\Documents\Visual Studio 2019\NetCore\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Visual Studio 2019\NetCore\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.deps.json
+\\Mac\Home\Documents\Visual Studio 2019\NetCore\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.dll
+\\Mac\Home\Documents\Visual Studio 2019\NetCore\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.pdb
+\\Mac\Home\Documents\Visual Studio 2019\NetCore\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Core.dll
+\\Mac\Home\Documents\Visual Studio 2019\NetCore\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Core.pdb
+\\Mac\Home\Documents\Visual Studio 2019\NetCore\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CopyComplete
+\\Mac\Home\Documents\Visual Studio 2019\NetCore\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.dll
+\\Mac\Home\Documents\Visual Studio 2019\NetCore\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iaMuqwU6xmxg62gPvCXrGN0BjYDDwA7Puv4yhh5pKalrcxExiM1iMkIDPejsU7OglCL4qbxBJeLuc3vA4xCjRw==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Documents\\Visual Studio 2019\\NetCore\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\luis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
